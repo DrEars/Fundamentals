@@ -2,7 +2,7 @@
 
 
 var out = process.stdout;
-var c = require('skilstak/colors');
+var c = require('skilstak-colors');
 
-Iout.write(c.cl + c.rc () + "Hello " + c.rc() + " World!\n" + c.x);
+out.write(c.cl + c.rc () + "Hello " + c.rc() + " World!\n" + c.x);
         
